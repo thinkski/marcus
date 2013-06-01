@@ -1,0 +1,5 @@
+# Compiled Python byte-code
+*.pyc
+
+# Mac OS X Finder generated files
+*.DS_Store

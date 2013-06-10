@@ -3,3 +3,6 @@
 
 # Mac OS X Finder generated files
 *.DS_Store
+
+# Vim swap files
+*.swp
